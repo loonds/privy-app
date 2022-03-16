@@ -4,7 +4,7 @@ import {BrowserRouter, Route, Switch} from "react-router-dom";
 import AppIndex from "./pages";
 
 function App(props: any) {
-    console.log("hello world");
+    console.log("Root Component of the React App");
     return (
     <div className="App">
         <BrowserRouter>
