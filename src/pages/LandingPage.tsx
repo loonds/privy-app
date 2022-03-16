@@ -1,5 +1,5 @@
 import {Component} from "react";
-import {ComingSoon} from "./ComingSoon/ComingSoon";
+import {ComingSoon} from "../components/ComingSoon/ComingSoon";
 
 class  LandingPage extends Component<any, any> {
     constructor(props: any) {

@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import {BrowserRouter, Route, Switch} from "react-router-dom";
-import AppIndex from "./components";
+import AppIndex from "./pages";
 
 function App(props: any) {
     console.log("hello world");
